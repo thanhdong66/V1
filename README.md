@@ -9,7 +9,7 @@ It redirects the website request from facebook to any blog while keeping the met
 - Environment variables (see below)
 
 ```
-git clone https://github.com/viswaah/vercel-redirect.git
+git clone https://github.com/thanhdong66/okbabies.git
 ```
 
 Add an `.env.local` file to the root with the following:
